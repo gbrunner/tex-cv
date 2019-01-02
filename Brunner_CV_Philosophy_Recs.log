@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.29)  28 DEC 2018 10:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.29)  2 JAN 2019 08:50
 entering extended mode
 **./Brunner_CV_Philosophy_Recs.tex
 (Brunner_CV_Philosophy_Recs.tex
@@ -61,19 +61,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--127
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 145.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 146.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 145.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
 
-Overfull \hbox (15.602pt too wide) in paragraph at lines 145--147
+Overfull \hbox (15.602pt too wide) in paragraph at lines 146--148
 []\OT1/cmr/m/n/10 Emma Black-wood mapped va-cant lots and food desert tracts in
  STL - https://bit.ly/2AiV9D7 
  []
@@ -93,7 +93,7 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Brunner_CV_Philosophy_Recs.pdf (4 pages, 103961 bytes).
+Output written on Brunner_CV_Philosophy_Recs.pdf (4 pages, 104017 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
